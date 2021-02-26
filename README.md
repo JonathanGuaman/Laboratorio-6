@@ -35,6 +35,8 @@ Figura 3.1
 
 ![](https://github.com/JonathanGuaman/Laboratorio-6/blob/main/Diagramas/Circuito%20calculado%20con%20el%20multimetro.png)
 
+![](https://github.com/JonathanGuaman/Laboratorio-6/blob/main/Diagramas/Circuito%20en%20el%20Simulador.png)
+
 Figura 3.2
 
 
