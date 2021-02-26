@@ -16,23 +16,32 @@ Observar la diferencia de voltaje rms y voltaje pico en la cual son difiniciones
 
 - Con el pasar de los tiempo la electricidad a sido primordial para el avance tecnologico para poder derrarollar y mejorar, pero con ello implica estudiar de como se compone la electricidad mayormente en voltajes y corrientes en energia alterna.
 
+![](https://github.com/JonathanGuaman/Laboratorio-6/blob/main/Marco%20Teorico/Marco%20Teorico.png)
+
 
 ### 3.- DIAGRAMAS:
 
 - Modelo del circuito a calcular:
 
 
+- ![](https://github.com/JonathanGuaman/Laboratorio-6/blob/main/Diagramas/Circuito%20por%20medir.png)
+
 Figura 3.1
 
 
 - Circuito electrico en en simulador DCACLab:
 
+![](https://github.com/JonathanGuaman/Laboratorio-6/blob/main/Diagramas/Armado%20del%20circuito.png)
+
+![](https://github.com/JonathanGuaman/Laboratorio-6/blob/main/Diagramas/Circuito%20calculado%20con%20el%20multimetro.png)
 
 Figura 3.2
 
 
 
 ### 4.- LISTA DE COMPONENTES:
+
+![](https://github.com/JonathanGuaman/Laboratorio-6/blob/main/Tablas/Tabla%20de%20componentes.png)
 
 
 
@@ -84,6 +93,8 @@ Obtenermos un valor de "4.899 [V] "
 Al final no coinciden por el motivo de que una es el voltaje pico y la otra es un voltaje en rms.
 
 ### 5.2.- Porcentaje de error:
+
+![](https://github.com/JonathanGuaman/Laboratorio-6/blob/main/Tablas/Error.png)
 
 Figura 5.2.1
 
