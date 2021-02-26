@@ -6,9 +6,11 @@
 
 #### 1.1.-Objetivo general: 
 
+REalizar la practiva numero 6 en los distintos simuladores de circuitos electricos en la cual nos ayudara a comprender como son las caracteristicas de los voltajes e intensidades de fuentes alternas.
 
 #### 1.2.-Objetivo Especifico:
 
+Observar la diferencia de voltaje rms y voltaje pico en la cual son difiniciones diferentes para la comprension del estudiante al momento de realizar la practiva numero 6 al momento de  comparar las mediciones con el oscilometro y el multimetro digital.
 
 ### 2.- MARCO TEORICO:
 
@@ -79,7 +81,19 @@ Obtenermos un valor de "4.899 [V] "
 
 - 7.5.8.- Compare el voltaje medido en el punto 5.1.1 y el obtenido en el multimetro 7.5.7 ¿Coincide?  ¿Por que?.
 
+Al final no coinciden por el motivo de que una es el voltaje pico y la otra es un voltaje en rms.
 
+### 5.2.- Porcentaje de error:
+
+Figura 5.2.1
+
+### 6.- CONCLUSIONES:
+
+Al final llegamos a la conclusion que seria mejor que exista en el simulador en tickercad que en el otro simulador en la cual es mas factible y con ello podemos comprender mejor el comportamiento de la onda senoidal y sus distintas caracteristicas.
+
+### 7.- BIBLIOGRAFIA:
+
+- Floyd, T.L (2007). Principios de circucitos electricos (Octaba ed).
 
 
 
